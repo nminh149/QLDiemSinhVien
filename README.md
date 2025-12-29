@@ -35,7 +35,7 @@ nhằm hỗ trợ sinh viên quản lý điểm môn học, thống kê GPA và 
 ## Cách cài đặt chương trình
 1. Tải mã nguồn
 Clone project từ GitHub:
-git clone https://github.com/<username>/<ten-repo>.git
+git clone https://github.com/nminh149/QLDiemSinhVien.git
 Hoặc tải file .zip và giải nén về máy.
 
 2. Mở project
